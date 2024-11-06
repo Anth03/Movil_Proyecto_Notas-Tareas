@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotesProject</string>
+    <string name="notas" translatable="false">NOTES/TASKS</string>
+    <string name="guardar" translatable="false">Save</string>
+    <string name="cancelar" translatable="false">Cancel</string>
+    <string name="editar_nota" translatable="false">Edit Note/Task</string>
+    <string name="eliminar" translatable="false">Delete</string>
+    <string name="nombre" translatable="false">Title</string>
+    <string name="descripcion" translatable="false">Description</string>
+    <string name="fecha_cumplimiento" translatable="false">Due Date DD/MM/YY</string>
+    <string name="hora_cumplimiento" translatable="false">Due Time HH/MM</string>
+    <string name="nota" translatable="false">Note</string>
+    <string name="tarea" translatable="false">Task</string>
+    <string name="anadir" translatable="false">ADD</string>
+    <string name="buscar" translatable="false">Search</string>
+    <string name="favorito" translatable="false">Favourite</string>
+    <string name="marcar_cumplida" translatable="false">Mark as completed</string>
+    <string name="nota_tarea" translatable="false">Notes/Tasks</string>
+    <string name="titulo" translatable="false">NOTES / TASKS</string>
+    <string name="terminada" translatable="false">Terminated</string>
+    <string name="grabar_audio" translatable="false">Record Audio</string>
+    <string name="abrir_camara" translatable="false">Open Camera</string>
+</resources>
